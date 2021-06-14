@@ -5,7 +5,7 @@
  
  
  The Scroll effect and active classes are also done with JavaScript.
- While browsing the page, viewport is being observed to update the navbar item corresponding to the section in viewport.
+ While browsing the page,  viewport is being observed to update the navigation bar corresponding to the section in viewport.
  
  
  The structure html and styling are provided by Udacity as part of the Nanodegree Front End Web Developer program.
